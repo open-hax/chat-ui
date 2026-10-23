@@ -28,3 +28,13 @@
   spore: none
   receipt-refs: 61f03722efb84dd9a4afa001e769547ddbe37dcdad77405eea82a02ef9ea8496
   note: "Bound changes to the exact runtime pin and required accountability; preserve prior bytes, incoming state and branch policy. Native service proof does not qualify a later member head."
+
+- ts: 2026-10-23T10:20:37.899524Z
+  session: codex/foresight-antigravity-rollout
+  task: Publish chat-ui R6 reviewer runtime pin
+  p-efficiency: 0.95
+  p-friction: 0.05
+  p-skill-candidate: 0.0
+  spore: none
+  receipt-refs: c45c6f340a13766f365b197226bb9c124ab14a722ee16b644da7231edfdd329b
+  note: "Bound changes to the exact runtime pin and required accountability; preserve prior bytes, incoming state and branch policy. Native service proof does not qualify a later member head."
